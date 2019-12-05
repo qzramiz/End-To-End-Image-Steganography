@@ -1,7 +1,7 @@
 # End-To-End-Image-Steganography
-Replicated paper: END-TO-END TRAINED CNN ENCODER-DECODER NETWORKS FOR IMAGE STEGANOGRAPHY
+Replicated paper: [END-TO-END TRAINED CNN ENCODER-DECODER NETWORKS FOR IMAGE STEGANOGRAPHY](https://arxiv.org/pdf/1711.07201.pdf)
 
-@article{article,
+@misc{article,
 author = {Rehman, Atique and Rahim, Rafia and Nadeem, Muhammad and Hussain, Sibt},
 year = {2017},
 month = {11},
